@@ -13,9 +13,9 @@ Provided that it is the year 2019, Chevron is planning for the next year and nee
 The Renewable Energy Investments ($) of each US state for 2020.
 
 Files
-- datacrunching - Didi Zhou, python
-- datakelly - Kelly Zeng, R
-- chevron, chevron_2020, cleanPopandGdp - Amber Hu, R
+- datacrunching.py - Didi Zhou, python
+- datakelly.R - Kelly Zeng, R
+- chevron.R, chevron_2020.R, cleanPopandGdp.R - Amber Hu, R
 - submission_file.xlsx - final investment predictions 2020
 - Predicting Investment in Renewable Energy in 2020.pdf - final presentation slides
 - Chevron Report.pdf - detailed explanation of methodology and data pipeline process
