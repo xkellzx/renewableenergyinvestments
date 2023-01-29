@@ -10,3 +10,10 @@ Objective
 Provided that it is the year 2019, Chevron is planning for the next year and needs to know which US states seem most promising with regards to renewable investments. In this Data Science Challenge, you are tasked with developing a model to predict:
 The Renewable Energy Investments ($) of each US state for 2020.
 
+Files
+datacrunching - Didi Zhou, python
+datakelly - Kelly Zeng, R
+
+
+data branch
+- all data read in and used
