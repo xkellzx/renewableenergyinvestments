@@ -14,6 +14,8 @@ Files
 datacrunching - Didi Zhou, python
 datakelly - Kelly Zeng, R
 chevron, chevron_2020, cleanPopandGDP - Amber Hu, R
+submission_file.xlsx - final investment predictions 2020
+
 
 data branch
 - all data read in and used
