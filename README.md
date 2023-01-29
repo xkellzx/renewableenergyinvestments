@@ -20,4 +20,4 @@ Files
 - Predicting Investment in Renewable Energy in 2020.pdf - final presentation slides
 
 data branch
-- all data read in and used
+- all data files (csv) used
