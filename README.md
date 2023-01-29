@@ -13,7 +13,7 @@ The Renewable Energy Investments ($) of each US state for 2020.
 Files
 datacrunching - Didi Zhou, python
 datakelly - Kelly Zeng, R
-
+chevron, chevron_2020, cleanPopandGDP - Amber Hu, R
 
 data branch
 - all data read in and used
